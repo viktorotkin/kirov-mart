@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://viktorotkin.github.io/kirov-mart/sitemap.xml
